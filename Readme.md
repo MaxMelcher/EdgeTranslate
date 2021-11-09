@@ -1,6 +1,3 @@
----
-lastmod: '2021-11-09T13:50:30.328Z'
----
 # Edge Extension to translate Text with Azure Translate
 
 1. Download everything
@@ -10,9 +7,13 @@ lastmod: '2021-11-09T13:50:30.328Z'
 2. 3. Click 'Load unpacked extension' and point to the folder with the extension code
 3. Select text and right click. Then select "Azure Translate".
 
+# Picture
+
+![/images/z1kMZMvkRY.gif](/images/z1kMZMvkRY.gif)
+
 # Features
 
-* Translatation of text from English to German
+* Translation of selected text from English to German with a dedicated Azure Translate service 
 
 # Limitations
 
